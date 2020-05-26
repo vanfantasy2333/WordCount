@@ -16,9 +16,9 @@ Download `WordCount.exe` to any directory you like.
 
    WordCount_path: The path to WordCount.exe
 
-   Parameter: "-w" Count the words
+   Parameter: "-w"  Count the words
 
-   ​                     "-c" Count the characters
+   ​                     "-c"  Count the characters
 
    file_path: The path of the file to operate or the name of the file if it is in the same directory of WordCount.exe
 
