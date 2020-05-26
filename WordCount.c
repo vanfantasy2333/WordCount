@@ -12,15 +12,6 @@
 #include<windows.h>
 
 /**
- * Struct Name: result
- * Struct discirption: The result of the program
- */
-struct result{
-    char operator;
-    int cnt;
-};
-
-/**
  * Judge function used to judge whether a char represents the end of a word
  *
  * @param char c The char to judge
